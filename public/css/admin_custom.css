@@ -1,0 +1,16 @@
+/* public/css/admin_custom.css */
+
+.custom-card {
+    /* Estilos comunes para ambas tarjetas */
+
+}
+
+.custom-card-header {
+    /* Estilos personalizados para el encabezado de la tarjeta */
+    color: darkgreen;
+}
+
+.custom-card-content {
+    /* Estilos personalizados para el contenido de la tarjeta */
+    color: rgb(105, 0, 128);
+}
